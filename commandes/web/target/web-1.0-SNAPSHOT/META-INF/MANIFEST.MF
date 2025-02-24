@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: mineh
+Build-Jdk: version 17.0.13
+Implementation-Title: COMMANDE WEB
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.isi.maven.web
+Main-Class: ${start-class}
+
